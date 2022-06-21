@@ -7,12 +7,12 @@
 
 body{
 
-  background-image: url("RES/AB.jpg");
+  background-image: url("/RES/AB.jpg");
   opacity: 2;
 }
 
 .about-section{
-    background: url("RES/Pro.jpg") no-repeat left;
+    background: url("/RES/Pro.jpg") no-repeat left;
     background-size: 85%;;
     overflow: hidden;
     height: 200%;
